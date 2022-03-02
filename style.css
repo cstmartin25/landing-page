@@ -1,0 +1,172 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+
+}
+
+.nav {
+    display:flex;
+    justify-content: space-between;
+    margin: 0;
+   
+
+}
+
+
+ul{
+    display: flex;
+    gap: 16px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+img {
+    height: 210px;
+    width: 340px;
+    justify-content: center;
+    
+
+}
+.info {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: beige;
+    border: coral;
+    border-style: groove;
+    border-width: thick;
+}
+
+.nav {
+    background-color:  #1f2937; ;
+    color: white;
+    font-size: 24px;
+    padding-left: 55px;
+    padding-right: 55px;
+    
+}
+
+.header {
+    background-color: #1f2937;
+    color: white;
+    padding-left: 30px;
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+li {
+    color:gray;
+    font-size: 18px;
+    align-items: center;
+    padding-right: 30px;
+
+
+}
+
+.btn {
+    color: white;
+    background-color: #3882F6;
+    text-align: center;
+    padding-left: 5px;
+}
+
+
+
+.mainphoto {
+    padding-left: 80px;
+    padding-right: 400px    ;
+}
+.disc-button {
+    padding-bottom: 110px;
+}
+
+.sarahpics {
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+align-content: center;
+gap: 60px;
+padding-top: 10px;
+padding-right: 400px;
+padding-bottom: 10px;
+padding-left: 400px;
+
+
+}
+
+.quotebox {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: #e5e7eb;
+font-family: #1f2937;
+font-style: italic;
+
+
+
+}
+
+.qh {
+    font-size: 18px;
+    margin-left: 60px;;
+}
+
+.bottomsection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 500px;
+    align-items: center;
+    background-color: #3882f6;
+    color: white;
+}
+
+.btext {
+
+}
+
+
+
+.bbutton {
+
+
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+}
+
+
+.box {
+    margin-left:  95px;
+    margin-right: 95px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.bb {
+    background-color: #3882F6;
+    color: white;
+    border-color: white;
+    border-style: solid;
+}
+
+
+
+
